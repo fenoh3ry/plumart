@@ -1,5 +1,5 @@
 ---
-name: About Awake
+name: About PlumArt
 image: /logo.svg
 ---
-All about the Awake Nuxt Template
+All about the PlumArt Nuxt Template

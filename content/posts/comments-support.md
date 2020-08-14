@@ -7,7 +7,7 @@ author: Daniel Kelly
 date: 2019-07-24T19:59:59.000Z
 featureImage: /uploads/disqus-hero.jpg
 ---
-Disqus brings the power of commenting to the Awake template. It provides features like moderation, reactions, filtering, and social sharing out of the box. Best of all, it's free and super easy to setup!
+Disqus brings the power of commenting to the PlumArt template. It provides features like moderation, reactions, filtering, and social sharing out of the box. Best of all, it's free and super easy to setup!
 
 ## Step 1
 
@@ -35,13 +35,13 @@ Select a plan. There are several premium versions available, but don't worry the
 
 ## Step 6
 
-Disqus supports a number of different platforms but also works great in static sites like Awake. Scroll to the very bottom of the list and choose: "I don't see my platform listed, install manually with"
+Disqus supports a number of different platforms but also works great in static sites like PlumArt. Scroll to the very bottom of the list and choose: "I don't see my platform listed, install manually with"
 
 ![Disqus button "I don't see my platform listed, install manually with"](/uploads/disqus-platform-button.jpg)
 
 ## Step 7
 
-You can ignore everything on this page, as the Awake template has already configured it for you. All you have to do is find your "Site Short Name" (it's the first part of the url) and add it to `config/_siteConfig.js`.
+You can ignore everything on this page, as the PlumArt template has already configured it for you. All you have to do is find your "Site Short Name" (it's the first part of the url) and add it to `config/_siteConfig.js`.
 
 Take it from here:
 

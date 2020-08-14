@@ -87,6 +87,6 @@ sw.*
 # Mac OSX
 .DS_Store
 
-#Awake CMS
+#PlumArt CMS
 static/api
 static/admin

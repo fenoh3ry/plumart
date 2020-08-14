@@ -2,7 +2,7 @@
 title: manoa
 subtitle: manoa
 category:
-  - About Awake
+  - About PlumArt
 author: PlumArt
 date: 2020-08-14T23:10:31.067Z
 featureImage: /uploads/manoa-iharivola.jpg

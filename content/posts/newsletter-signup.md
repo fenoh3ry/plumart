@@ -1,13 +1,13 @@
 ---
 title: Newsletter Signup
-subtitle: Awake Integrates with Mailchimp for Easy Newsletter Management
+subtitle: PlumArt Integrates with Mailchimp for Easy Newsletter Management
 category:
   - Third Party Integrations
 author: Daniel Kelly
 date: 2019-08-01T03:49:49.295Z
 featureImage: /uploads/mailchimp.jpg
 ---
-You're publishing great content! Make sure people can get it easily right in their inbox with Awake's ready to go Mailchimp integration. Follow these instructions to get your newsletter up and running
+You're publishing great content! Make sure people can get it easily right in their inbox with PlumArt's ready to go Mailchimp integration. Follow these instructions to get your newsletter up and running
 
 ## 1. Signup with Mailchimp
 
@@ -29,7 +29,7 @@ Under "Copy/paste onto your site" you'll see the markup  for the newsletter form
 
 ![copy form action from mailchimp](/uploads/screen-shot-2019-08-01-at-1.05.09-pm.png)
 
-## 5. Add the Action to the Awake Site Configuration
+## 5. Add the Action to the PlumArt Site Configuration
 
 ```
 // Can be the form action on a mail chimp form, a hubspot form,
