@@ -61,7 +61,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'PlumArt' // 'PlumArt'
+    siteShortName: 'PlumArts' // 'PlumArt'
   },
 
   // Newsletter Subscribe
