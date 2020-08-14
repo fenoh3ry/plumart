@@ -61,7 +61,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'PlumArt' // 'PlumArt'
   },
 
   // Newsletter Subscribe
