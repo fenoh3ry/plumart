@@ -1,13 +1,6 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      <button
-        v-if="$siteConfig.newsletter.on"
-        class="button is-primary"
-        @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
-      >
-        Subscribe To Newsletter
-      </button>
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
@@ -28,10 +21,10 @@ import { setPageData } from '../helper'
 import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 
 export default {
-  name: 'HomePage',
+  name: 'Accueil',
   head() {
     return {
-      title: `Home | ${this.$siteConfig.siteName}`
+      title: `Accueil | ${this.$siteConfig.siteName}`
     }
   },
   components: {

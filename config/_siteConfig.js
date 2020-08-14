@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'PlumArt',
+  tagline: 'Évoquons les artistes qui sont en nous.',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -19,7 +19,7 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'A propos',
       link: '/about'
     },
     {
@@ -31,13 +31,13 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: '',
+      link: '',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: '',
+      link: '',
       target: '_blank'
     }
   ],
@@ -67,14 +67,14 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
-    btnText: 'Subscribe',
+    heading: 'Inscription à notre Newsletter',
+    btnText: 'Inscription',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },
     custom: {
       on: false,
