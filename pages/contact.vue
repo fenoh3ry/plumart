@@ -28,13 +28,13 @@
               <div class="content">
                 <p>
                   <strong>
-                   Plum'Art est une association de jeunes artistes Malagasy(15~27ans).
+                   Plum'Art est une association des jeunes artistes Malagasy(15~27ans).
                   </strong>
                 </p>
                 <p>
                   Les membres sont tous des jeunes qui veulent évoluer dans le domaine de l'Art et ont  tous des styles de dessin différents: portrait, peinture, manga, BD, illustration ( tradi ou digi).......
 L'association a été fondée en 2014 (association a but non lucratif) et compte plus d'une cinquantaine de membres a ce jour . Nous siégeons actuellement au Global Hub Network Antsahavola.
-Le slogan de l'association est " Évoquons l'artiste qu'on est " 
+Le slogan de l'association est <b> " Évoquons l'artiste qu'on est " </b>
 Parmi nos objectifs, nous voulons promouvoir les jeunes artistes malagasy. Je veux parler là des jeunes qui n'en fait pas un travail mais un divertissement . Cette promotion se présente sous forme d'exposition, d'atelier de dessin, atelier de rencontre, échange et partage  ...
                 </p>
               </div>
