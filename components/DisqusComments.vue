@@ -5,7 +5,7 @@
       class="button is-fullwidth is-outlined is-large"
       @click="displayed = true"
     >
-      Load Comments
+      Charger les commentaires
     </a>
     <intersection-observer
       v-if="$siteConfig.disqus.loadingStrategy === 'lazy'"
@@ -25,7 +25,7 @@
       v-if="$siteConfig.disqus.on && !$siteConfig.disqus.siteShortName"
       class="notification is-danger"
     >
-      Disqus site short name is required!
+      Necessite un surnom Disqus!
     </div>
   </div>
 </template>
