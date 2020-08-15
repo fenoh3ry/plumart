@@ -15,6 +15,7 @@ export const modules = [
   '@nuxtjs/eslint-module',
   '@nuxtjs/style-resources',
   'nuxt-fontawesome',
+  '@nuxtjs/pwa',
   'nuxt-responsive-loader'
 ]
 if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
