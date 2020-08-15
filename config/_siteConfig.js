@@ -61,7 +61,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'PlumArts' // 'PlumArt'
+    siteShortName: 'plumart' // 'plumart'
   },
 
   // Newsletter Subscribe
@@ -74,7 +74,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://link fromsubscriptionmailchimp'
     },
     custom: {
       on: false,
