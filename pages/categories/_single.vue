@@ -12,7 +12,7 @@
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle">
-          All Categories
+          Tous les Categories
         </h3>
         <div class="panel">
           <nuxt-link
