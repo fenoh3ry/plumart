@@ -74,7 +74,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://github.us17.list-manage.com/subscribe/post?u=42be265091f70680aff8bf4e8&amp;id=9c535d3270'
+        'https://app.us17.list-manage.com/subscribe/post?u=46377d462914029ad98b2cd30&amp;id=ca9e11f93e'
     },
     custom: {
       on: false,
