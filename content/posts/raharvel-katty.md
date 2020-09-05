@@ -2,7 +2,7 @@
 title: RAHARVEL Katty
 subtitle: Présentation
 category:
-  - "Biographia des membres "
+  - "Les artistes membres "
 author: Katty
 date: 2020-06-23T17:44:00.000Z
 featureImage: /uploads/118615017_3228758807200814_6442369666910005939_n.jpg
