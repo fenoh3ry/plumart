@@ -13,11 +13,9 @@ featureImage: /uploads/106186293_569967150382152_189712320787084310_o.jpg
 Salut, mon nom est Sedra Fanantenana, et c'est aussi celui que j'utilise comme nom d'artiste. Pour moi '' l'art parle plus que les mots'' alors j'exprime mieux avec mes œuvres.
 J'ai commencé le dessin à mon enfance en essayant plusieurs techniques. Je m'exerce sur les portraits, peintures et digitale en ce moment... J'ai exploité aussi l'art en tant que thérapie (art thérapie)
 J'ai intégré l'association Plum'Art en 2015, et ça m'a vraiment aidée  à évoluer dans le domaine de l'art visuel. 
-On peut aussi trouver mes œuvres dans ma page perso <!--StartFragment-->
+On peut aussi trouver mes œuvres dans ma page perso <https://web.facebook.com/fnsedra>
 
-<https://web.facebook.com/fnsedra>
 
-<!--EndFragment-->
 
 ![](/uploads/101407875_554870688558465_5038026453870968832_o.jpg)
 
