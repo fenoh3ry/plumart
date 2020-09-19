@@ -3,6 +3,7 @@ title: Manoa
 subtitle: other side of humanity
 category:
   - Digital Painting
+  - "Les artistes membres "
 author: RAKOTOARIMANANA Manoa Iharivola
 date: 2020-07-22T13:19:19.807Z
 featureImage: /uploads/116214608_3031407260291890_2086501953299755222_n.jpg
