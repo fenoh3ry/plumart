@@ -5,6 +5,7 @@ category:
   - Tradi Painting
   - Digital Painting
   - "Les artistes membres "
+  - Photographie
 author: PlumArt
 date: 2020-09-19T07:28:39.814Z
 featureImage: /uploads/106186293_569967150382152_189712320787084310_o.jpg
