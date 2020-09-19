@@ -6,7 +6,7 @@ category:
   - Photographie
   - Tradi Painting
   - "Les artistes membres "
-author: PlumArt
+author: Sedra Fanatenana
 date: 2020-09-19T17:40:08.953Z
 featureImage: /uploads/106186293_569967150382152_189712320787084310_o.jpg
 ---
