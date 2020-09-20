@@ -1,5 +1,5 @@
 ---
-title: Tiana Kaleena
+title: Winner
 subtitle: Dessin sans titre
 category:
   - Digital Painting
