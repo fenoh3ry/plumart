@@ -1,6 +1,6 @@
 ---
-title: Winner
-subtitle: Gagnant du concours 1
+title: Winner 1
+subtitle: "Gagnant du premier concours "
 category:
   - Digital Painting
 author: Ponpon Le Grand Jeditou
