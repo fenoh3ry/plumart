@@ -1,6 +1,6 @@
 ---
 title: Winner
-subtitle: Dessin sans titre
+subtitle: Gagnante du troisième concours
 category:
   - Digital Painting
 author: Tiana Kaleena
