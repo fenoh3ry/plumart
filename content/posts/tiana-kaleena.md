@@ -1,5 +1,5 @@
 ---
-title: Winner
+title: Winner 3
 subtitle: Gagnante du troisième concours
 category:
   - Digital Painting
