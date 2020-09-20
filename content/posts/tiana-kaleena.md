@@ -4,7 +4,7 @@ subtitle: Gagnante du troisième concours
 category:
   - Digital Painting
 author: Tiana Kaleena
-date: 2020-09-20T07:52:24.276Z
+date: 2020-09-07T16:08:00.000Z
 featureImage: /uploads/240.jpg
 ---
 Félicitations à notre gagnante du concours n° : 3 
