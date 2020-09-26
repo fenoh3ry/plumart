@@ -1,5 +1,5 @@
 ---
-title: Performance d'Art
+title: Performance d'Art septembre 2020
 subtitle: "Démonstration des compétences artistiques des membres "
 category:
   - Les activités de l'association
